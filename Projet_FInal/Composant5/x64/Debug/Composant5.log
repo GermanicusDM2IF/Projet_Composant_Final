@@ -1,0 +1,8 @@
+﻿  Composant5.cpp
+c:\users\jeremy\desktop\projet_composant_final\projet_final\composant5\composant5.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: voir la déclaration de 'strcpy'
+c:\users\jeremy\desktop\projet_composant_final\projet_final\composant5\composant5.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: voir la déclaration de 'strcpy'
+     Création de la bibliothèque C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant5.lib et de l'objet C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant5.exp
+  Composant5.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant5.dll
+  Composant5.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant5.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  FileInterface.cpp
+c:\users\jeremy\desktop\projet_composant_final\projet_final\composant1\fileinterface.h(21): warning C4251: 'FileInterface::fichier' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'FileInterface'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: voir la déclaration de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Création de la bibliothèque C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant1.lib et de l'objet C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant1.exp
+  Composant1.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant1.dll
+  Composant1.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Composant1.pdb (Partial PDB)

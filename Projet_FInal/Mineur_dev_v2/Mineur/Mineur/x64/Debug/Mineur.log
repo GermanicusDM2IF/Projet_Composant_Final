@@ -1,0 +1,12 @@
+﻿  Mineur.cpp
+c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.cpp(31): warning C4273: 'Mineur::Mineur' : liaison DLL incohérente
+  c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.h(36): note: voir la définition précédente de '{ctor}'
+c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.cpp(40): warning C4273: 'Mineur::transform' : liaison DLL incohérente
+  c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.h(42): note: voir la définition précédente de 'transform'
+c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.cpp(68): warning C4273: 'Mineur::getM_bloc' : liaison DLL incohérente
+  c:\users\jeremy\desktop\projet_composant_final\projet_final\mineur_dev_v2\mineur\mineur\mineur.h(47): note: voir la définition précédente de 'getM_bloc'
+     Création de la bibliothèque C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Mineur.lib et de l'objet C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Mineur.exp
+Debug.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu être trouvé avec 'Debug.obj' ou sur 'C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\vc140.pdb' ; l'objet sera lié sans informations de débogage
+Debug.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu être trouvé avec 'Debug.obj' ou sur 'C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\vc140.pdb' ; l'objet sera lié sans informations de débogage
+  Mineur.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Mineur.dll
+  Mineur.vcxproj -> C:\Users\Jeremy\Desktop\Projet_Composant_Final\Projet_FInal\x64\Debug\Mineur.pdb (Partial PDB)
